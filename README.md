@@ -12,7 +12,7 @@ N/A
 
 To see how the semantic tags are helping the HTML code look user friendly- simply open the index.html file in a browser and investigate. This will allow you to view the changes I made to the code. 
 
-# #Credits
+## Credits
 
 N/A
 

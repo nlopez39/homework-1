@@ -8,17 +8,24 @@ I also made changes to the CSS selectors and properties, organizing them to foll
 ## Installation
 
 To install this onto your local computer: 
-1. Make copy the SSH 
-1. Make a copy of the repository by using `git clone` in your terminal
-4. 
+1. In your terminal, choose a folder (ex. `cd bootcamp`)
+2. In GitHub, click the 'Code' button and copy the 'SSH key' path to your clipboard. 
+3. In your terminal, make a copy of the repository by using `git clone` and paste in the 'SSH key' (`command + v`)
+4. Now you should have a copy of this repository in your 'bootcamp' folder
+
 
 ## Usage
 
-To see how the semantic tags are helping the HTML code look user friendly- simply open the index.html file in a browser and investigate. This will allow you to view the changes I made to the code. 
+To see how the semantic tags are helping the HTML code look user friendly- either open the index.html file in VS code or open it in a default browser. 
+
+If using the default browser option: 
+1. Right click the file and choose `Open in Default Browser`
+2. In the broswer, right click the page and choose `Investigate`
+3. Then the HTML code will pop up on the screen for you to play around with it.
 
 ## Credits
 
-Github: nlopez039
+**Github***: nlopez039
 
 ## License
 

@@ -25,7 +25,7 @@ If using the default browser option:
 
 ## Credits
 
-**Github**: nlopez39 https://github.com/nlopez39
+**Github**: <https://github.com/nlopez39>
 
 ## License
 

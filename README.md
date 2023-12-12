@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the Module 1 Challenge, which was given to the bootcamp students for week 1. It contains edits to both the HTML and CSS code that was provided. Students were asked to go through the code and make the site more accessible. To do this I made edits to the HTML tags and replaced most of the <div> with semantic tags. Semantic tags add more description to both the user and computer. 
+This is the Module 1 Challenge, which was given to the bootcamp students for week 1. It contains edits to both the HTML and CSS code that was provided. Students were asked to go through the code and make the site more accessible. To do this I made edits to the HTML tags and replaced most of the divs with semantic tags. Semantic tags add more description to both the user and computer. 
 
 ## Installation
 

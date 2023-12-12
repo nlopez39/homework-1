@@ -8,7 +8,8 @@ I also made changes to the CSS selectors and properties, organizing them to foll
 ## Installation
 
 To install this onto your local computer: 
-1. Make a copy of the repository with `git clone`
+1. Make a copy of the repository by going clicking on the  `git clone`
+2. 
 
 ## Usage
 

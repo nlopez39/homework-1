@@ -8,7 +8,7 @@ I also made changes to the CSS selectors and properties, organizing them to foll
 ## Installation
 
 To install this onto your local computer: 
-1. In your terminal, choose a folder (ex. `cd bootcamp`)
+1. In your terminal, choose a folder that you would like to copy these files into (ex. `cd bootcamp`)
 2. In GitHub, click the 'Code' button and copy the 'SSH key' path to your clipboard. 
 3. In your terminal, make a copy of the repository by using `git clone` and paste in the 'SSH key' (`command + v`)
 4. Now you should have a copy of this repository in your 'bootcamp' folder
@@ -25,7 +25,7 @@ If using the default browser option:
 
 ## Credits
 
-**Github***: nlopez039
+**Github**: nlopez039
 
 ## License
 

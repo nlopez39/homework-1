@@ -14,7 +14,7 @@ To see how the semantic tags are helping the HTML code look user friendly- simpl
 
 ## Credits
 
-N/A
+Github: nlopez039
 
 ## License
 

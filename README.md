@@ -5,7 +5,7 @@
 This is the Module 1 Challenge, which was given to the bootcamp students for Week 1. It contains edits to both the HTML and CSS code that was provided. Students were asked to make the code more accessible/user friendly. To do this I made edits to the HTML tags and replaced most of the `divs` with semantic tags. 
 I also made changes to the CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 
-**Link to Project**: https://nlopez39.github.io/homework-1/
+**Link to Application**: https://nlopez39.github.io/homework-1/
 
 ## Installation
 
